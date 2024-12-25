@@ -6,10 +6,10 @@ Designed and developed a command-driven robotic car system using the PIC16F871 m
 The project also included a comprehensive simulation using Proteus Design Suite, allowing for precise validation of circuit design and system functionality before hardware implementation.
 
 ## Key Highlights:
-Programmed the PIC16F871 microcontroller to process sequential commands for motion control.
-Designed and simulated the entire circuit using Proteus, ensuring system reliability and minimizing design errors.
-Integrated hardware components such as switches, actuators, and power supply.
-Demonstrated expertise in embedded systems, sequential logic, and simulation-based testing.
+“*” Programmed the PIC16F871 microcontroller to process sequential commands for motion control.
+“*” Designed and simulated the entire circuit using Proteus, ensuring system reliability and “*” “*” minimizing design errors.
+“*” Integrated hardware components such as switches, actuators, and power supply.
+“*” Demonstrated expertise in embedded systems, sequential logic, and simulation-based testing.
 
 
 This project reflects a strong foundation in embedded systems, simulation tools, and hardware-software integration for practical robotics applications.
