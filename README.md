@@ -16,3 +16,4 @@ The project also included a comprehensive simulation using Proteus Design Suite,
 
 
 This project reflects a strong foundation in embedded systems, simulation tools, and hardware-software integration for practical robotics applications.
+![Screenshot 2024-12-25 120504](https://github.com/user-attachments/assets/fcdaf4eb-6c3c-4aa2-bb6b-01ca3f0ea3bb)
