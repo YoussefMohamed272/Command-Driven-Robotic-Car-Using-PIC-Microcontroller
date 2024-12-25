@@ -7,8 +7,11 @@ The project also included a comprehensive simulation using Proteus Design Suite,
 
 ## Key Highlights:
 “*” Programmed the PIC16F871 microcontroller to process sequential commands for motion control.
-“*” Designed and simulated the entire circuit using Proteus, ensuring system reliability and “*” “*” minimizing design errors.
+
+“*” Designed and simulated the entire circuit using Proteus, ensuring system reliability and minimizing design errors.
+
 “*” Integrated hardware components such as switches, actuators, and power supply.
+
 “*” Demonstrated expertise in embedded systems, sequential logic, and simulation-based testing.
 
 
